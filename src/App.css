@@ -145,6 +145,50 @@
     font-weight: 300;
 }
 
+@media only screen and (max-width:960px){
+    .trivia{
+        height: 80%;
+    }
+    .pyramid{
+        width: 40%;
+    }  
+    .question{
+        width: 80%;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 15px;
+    }
+    
+    .answer{
+        width: 50%;
+        padding: 10px;
+        margin: 0 5px 5px 5px;
+        text-align: center;
+        border: 1px solid white;
+        border-radius: 15px;
+        font-size: 15px;
+        font-weight: 100;
+        cursor: pointer;
+    }
+    .moneyList{
+        list-style: none;
+        width: 100%;
+        padding: 10px;
+    } 
+    .moneyListItemNumber{
+        font-size: 12px;
+        font-weight: 10;
+        width: 20%;
+    }
+    
+    .moneyListItemAmount{
+        font-size: 10px;
+        font-weight: 10;
+    }
+}
+
+
+
 .endText{
     position: relative;
     top:0;

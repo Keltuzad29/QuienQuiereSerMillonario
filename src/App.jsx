@@ -500,9 +500,9 @@ function App() {
         <button className="returnButton" onClick={handleClick}>Volver a Intentarlo</button> 
         </>: (
 <>
-          <div className="top"><h1>
+          <div className="top"><h2>
             Esta Jugando {userName}
-            </h1>
+            </h2>
           <div className="timer"><Timer setStop={setStop} questionNumber={questionNumber}/></div>
         </div>
         <div className="bottom">
