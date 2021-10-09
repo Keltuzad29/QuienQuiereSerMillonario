@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/QuienQuiereSerMillonario/static/css/main.e4c68df2.chunk.css",
-    "main.js": "/QuienQuiereSerMillonario/static/js/main.8699864e.chunk.js",
-    "main.js.map": "/QuienQuiereSerMillonario/static/js/main.8699864e.chunk.js.map",
+    "main.css": "/QuienQuiereSerMillonario/static/css/main.e4ae1746.chunk.css",
+    "main.js": "/QuienQuiereSerMillonario/static/js/main.a1318de4.chunk.js",
+    "main.js.map": "/QuienQuiereSerMillonario/static/js/main.a1318de4.chunk.js.map",
     "runtime-main.js": "/QuienQuiereSerMillonario/static/js/runtime-main.7ca4e5a5.js",
     "runtime-main.js.map": "/QuienQuiereSerMillonario/static/js/runtime-main.7ca4e5a5.js.map",
     "static/js/2.5549b74a.chunk.js": "/QuienQuiereSerMillonario/static/js/2.5549b74a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.bb2ff204.chunk.js": "/QuienQuiereSerMillonario/static/js/3.bb2ff204.chunk.js",
     "static/js/3.bb2ff204.chunk.js.map": "/QuienQuiereSerMillonario/static/js/3.bb2ff204.chunk.js.map",
     "index.html": "/QuienQuiereSerMillonario/index.html",
-    "static/css/main.e4c68df2.chunk.css.map": "/QuienQuiereSerMillonario/static/css/main.e4c68df2.chunk.css.map",
+    "static/css/main.e4ae1746.chunk.css.map": "/QuienQuiereSerMillonario/static/css/main.e4ae1746.chunk.css.map",
     "static/js/2.5549b74a.chunk.js.LICENSE.txt": "/QuienQuiereSerMillonario/static/js/2.5549b74a.chunk.js.LICENSE.txt",
     "static/js/3.bb2ff204.chunk.js.LICENSE.txt": "/QuienQuiereSerMillonario/static/js/3.bb2ff204.chunk.js.LICENSE.txt",
     "static/media/app.css": "/QuienQuiereSerMillonario/static/media/bg.c137ccd7.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.7ca4e5a5.js",
     "static/js/2.5549b74a.chunk.js",
-    "static/css/main.e4c68df2.chunk.css",
-    "static/js/main.8699864e.chunk.js"
+    "static/css/main.e4ae1746.chunk.css",
+    "static/js/main.a1318de4.chunk.js"
   ]
 }
