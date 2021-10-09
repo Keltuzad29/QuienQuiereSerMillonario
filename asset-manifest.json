@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/QuienQuiereSerMillonario/static/css/main.e4c68df2.chunk.css",
+    "main.js": "/QuienQuiereSerMillonario/static/js/main.8699864e.chunk.js",
+    "main.js.map": "/QuienQuiereSerMillonario/static/js/main.8699864e.chunk.js.map",
+    "runtime-main.js": "/QuienQuiereSerMillonario/static/js/runtime-main.7ca4e5a5.js",
+    "runtime-main.js.map": "/QuienQuiereSerMillonario/static/js/runtime-main.7ca4e5a5.js.map",
+    "static/js/2.5549b74a.chunk.js": "/QuienQuiereSerMillonario/static/js/2.5549b74a.chunk.js",
+    "static/js/2.5549b74a.chunk.js.map": "/QuienQuiereSerMillonario/static/js/2.5549b74a.chunk.js.map",
+    "static/js/3.bb2ff204.chunk.js": "/QuienQuiereSerMillonario/static/js/3.bb2ff204.chunk.js",
+    "static/js/3.bb2ff204.chunk.js.map": "/QuienQuiereSerMillonario/static/js/3.bb2ff204.chunk.js.map",
+    "index.html": "/QuienQuiereSerMillonario/index.html",
+    "static/css/main.e4c68df2.chunk.css.map": "/QuienQuiereSerMillonario/static/css/main.e4c68df2.chunk.css.map",
+    "static/js/2.5549b74a.chunk.js.LICENSE.txt": "/QuienQuiereSerMillonario/static/js/2.5549b74a.chunk.js.LICENSE.txt",
+    "static/js/3.bb2ff204.chunk.js.LICENSE.txt": "/QuienQuiereSerMillonario/static/js/3.bb2ff204.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/QuienQuiereSerMillonario/static/media/bg.c137ccd7.jpg",
+    "static/media/correct.160572d7.mp3": "/QuienQuiereSerMillonario/static/media/correct.160572d7.mp3",
+    "static/media/play.8e5f6d1d.mp3": "/QuienQuiereSerMillonario/static/media/play.8e5f6d1d.mp3",
+    "static/media/wait.30e329da.mp3": "/QuienQuiereSerMillonario/static/media/wait.30e329da.mp3",
+    "static/media/wrong.e9468218.mp3": "/QuienQuiereSerMillonario/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca4e5a5.js",
+    "static/js/2.5549b74a.chunk.js",
+    "static/css/main.e4c68df2.chunk.css",
+    "static/js/main.8699864e.chunk.js"
+  ]
+}
